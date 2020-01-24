@@ -5,6 +5,7 @@ class Category{
     private $conn;
     private $table_name = "categories";
  
+    
     // object properties
     public $id;
     public $name;
